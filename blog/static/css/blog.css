@@ -1,3 +1,11 @@
+ .page-header {
+        background-color: #ff9400;
+        margin-top: 0;
+        padding: 20px 20px 20px 40px;
+    }
+ body {
+        padding-left: 15px;
+    }
  h1 a {
     font-family:verdana;
     text-transform:uppercase;
@@ -7,7 +15,7 @@
     margin:20 10 20 10; 
     padding:0;
      }
-     h2 a {
+h2 a {
      	font-family:verdana;
      	text-decoration:overline;
      	text-transform:uppercase;
@@ -18,7 +26,7 @@
      	padding:0;
      }
 
-     p {  font-weight:200;
+p {  font-weight:200;
      	color:#000;
      	margin:20 20 20 20; 
      	padding:0;
@@ -26,7 +34,7 @@
      	font-size:90%;
      	text-align:justify;
      }
-     a {
+a {
         display: block;
         font-family:verdana;
         text-decoration:none; 
@@ -36,9 +44,13 @@
         text-align:left;
         padding: 5px 10px;
      }
-    h2 a:hover {
+h2 a:hover {
         color:#000;
         text-decoration:overline;
         text-transform:uppercase;
         }  
         
+.date {
+        float: right;
+        color: #828282;
+    }
