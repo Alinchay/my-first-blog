@@ -1,0 +1,2 @@
+1. cd djangogirls
+2. myvenv\Scripts\activate
